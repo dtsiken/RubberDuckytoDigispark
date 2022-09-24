@@ -14,6 +14,9 @@ Usage:
     Here is the example:
     python Duckyspark.py payload.txt
     
+    NOTE:
+    The payload.txt file is need to be in the same directory as the Duckyspark.py file located
+    
     and hit Enter the .ino file will be created double click to that and the Ardruino IDE
     will be opened automaticaly(NEED ARDRUINO IDE TO BE INSTALLED ON YOUR COMPUTER)
     also translated payload will be saved in "digipayload.ino"
