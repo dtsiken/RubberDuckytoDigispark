@@ -14,16 +14,16 @@ Usage:
     Here is the example:
     python Duckyspark.py payload.txt
     
-		and hit Enter the .ino file will be created double click to that and the Ardruino IDE
+    and hit Enter the .ino file will be created double click to that and the Ardruino IDE
     will be opened automaticaly(NEED ARDRUINO IDE TO BE INSTALLED ON YOUR COMPUTER)
     also translated payload will be saved in "digipayload.ino"
 
     For Linux:
-		
+	
     Download this Python File along with the source code and run the terminal
     type the command i showed example below i will show below
     
-		python3 Duckyspark.py payload.txt
+    python3 Duckyspark.py payload.txt
     
 Ducky payloads you can find here:
 https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
